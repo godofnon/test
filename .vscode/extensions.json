@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "seyyedkhandon.tpack",
+        "alefragnani.bookmarks",
+        "ritwickdey.liveserver",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "tabnine.tabnine-vscode",
+        "TabNine.tabnine-vscode"
+    ]
+}
